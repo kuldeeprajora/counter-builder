@@ -2,6 +2,8 @@
 
 Counter Builder is a dockable Adobe After Effects ScriptUI panel for creating editable, animated number counters on text layers.
 
+**Project status: Final Draft**
+
 Current script version: `1.0.5`
 
 ## Features
@@ -41,7 +43,6 @@ A separate `Counter_Builder_Quick_Installation_Guide.pdf` is included in this re
 
 When using **Apply to Selected Text Layer**, **Duplicate Selected Text Layer**, or **Selected Layer Duration**, select exactly one suitable layer before running the action.
 
-## Development Status
+## Status
 
-Counter Builder is not release-ready. The current build has known functional problems in testing on both macOS and Windows. The repository is private while those issues are reproduced and fixed.
-
+**Final Draft.** The current functionality is accepted and no further feature changes are planned before release. The repository remains private until the decision is made to publish it.
